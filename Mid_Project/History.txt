@@ -1,0 +1,12 @@
+2023-03-01,Paid,50.00,iTune
+2023-03-05,Deposit,1000.00,Bkash
+2023-03-08,Paid,500.00,6754
+2023-03-15,ATM Withdrawal,100.00
+2023-03-30,Paid,75.00,7474
+2023-04-01,Deposit,200.00,Nagad
+2023-04-05,Paid,80.00,3564
+2023-04-10,Deposit,500.00,Rocket
+2023-04-15,Paid,200.00,Amazon Prime
+2023-04-20,ATM Withdrawal,50.00,ATM
+2023-04-25,Paid,120.00,Netflix
+2023-04-26,sent,120.00,mahfuzurferdous@gmail.com
